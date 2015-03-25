@@ -1,6 +1,18 @@
 /*
  * created By Jonathan Child
  * Feb/12/2015
+ 
+ We have come up with the best possible language called Codel. To translate text into Codel, 
+ we take any message and replace each English letter with another English letter. This mapping 
+ is one-to-one and onto, which means that the same input letter always gets replaced with the 
+ same output letter, and different input letters always get replaced with different output letters.
+ A letter may be replaced by itself. Spaces are left as-is. 
+ For example (and here is a hint!), our translation algorithm includes the following three mappings: 
+ 'b' -> 'n', 'j' -> 'u', and 'v' -> 'g' is based on the best possible replacement mapping, and we 
+ will never change it. It will always be the same. In every test case. We will not tell you the rest 
+ of our mapping because that would make the problem too easy, but there are a few examples below 
+ that may help.
+ 
  */
 
 import java.io.*;
