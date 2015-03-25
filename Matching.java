@@ -1,6 +1,9 @@
 /*
  * created By Jonathan Child
  * Feb/13/2015
+ 
+Write a program which finds the first non-repeated character in a string.
+ 
  */
 
 import java.io.*;
