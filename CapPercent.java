@@ -1,6 +1,9 @@
 /*
  * created By Jonathan Child
  * Feb/12/2015
+ 
+ Your task is to write a program which determines (calculates) the percentage ratio of lowercase and uppercase letters.
+ 
  */
 
 import java.io.*;
