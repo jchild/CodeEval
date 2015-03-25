@@ -1,6 +1,9 @@
 /*
  * created By Jonathan Child
  * Dec/11/2014
+ 
+ You will be given a hexadecimal (base 16) number. Convert it into decimal (base 10).
+ 
  */
 
 import java.io.*;
