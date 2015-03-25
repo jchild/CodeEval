@@ -1,3 +1,13 @@
+/*
+You are given a piece of text. Your job is to write a program that sets the case of text characters according to the following rules:
+
+The first letter of the line should be in uppercase.
+The next letter should be in lowercase.
+The next letter should be in uppercase, and so on.
+Any characters, except for the letters, are ignored during determination of letter case.
+*/
+
+
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.Scanner;
